@@ -1,7 +1,7 @@
 ## Introduction
 This repository stores general information about the **dataset** we have artificially generated for the Distinguishing String Selection Problem (DSSP) and the Distinguishing Substring Selection Problem (DSSSP). 
 
-We are publishing in here the **input files** for the instances, the **solutions** we have found, and **reports** comparing them through worksheets.
+We are publishing here the **input files** for the instances, the **solutions** we have found, and **reports** comparing them through worksheets.
 
  
 ## Problems
@@ -34,7 +34,9 @@ The values and results we found applying every algorithm in each string from tho
 ## Reports
 The folder **reports** contains worksheets with data comparison between the execution of those algorithms
 
+## External Reference
 
+[1] Meneses, C.N., Pardalos, P.M., Resende, M.G.C., Vazacopoulos, A.: Modeling and solvingstring selection problems.  In: Proceedings of the Second International Symposium on Mathematical and Computational Biology, pp. 54–64 (2005)
 
-
+[2] Della Croce, F., Salassa, F.: Improved lp-based algorithms for theclosest string problem. Computers & Operations Research
 
