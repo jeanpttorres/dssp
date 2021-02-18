@@ -1,5 +1,0 @@
-Tempo: 300.284899s
-Objective Value(dc - df) = 3
-Palavra(x) = 1111010110011111011111100110101100000000
-dc = 16
-df = 13
