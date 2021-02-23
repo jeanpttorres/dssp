@@ -14,7 +14,6 @@ We are publishing here the **input files** for the instances, the **solutions** 
  - **exact**: a 30 minutes execution of the branch-and-bound algorithm applying the mathematical model described in [1];
  - **ra**: the **rounding algorithm** proposed in [2];
  - **bcpa**: an adaptation from the **basic core problem algorithm** also proposed in [2];
- - **bcpa0**: an execution of the bcpa described above which does not apply either predefined  heuristics or steps from the solver or SCIP;
  - **ilpbn-vns**: a VNS implementation which applies the Mathematical Model in order to define its Neighbourhood Structure;
  - **ilpbs-vns**: a VNS based matheuristic which expands the ilpbn by applying the Mathematical Model in the Shaking and Local Search steps.
 
