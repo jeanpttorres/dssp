@@ -1,7 +1,7 @@
 ## Introduction
 This repository stores general information about the **dataset** we have artificially generated for the Distinguishing String Selection Problem (DSSP) and the Distinguishing Substring Selection Problem (DSSSP). 
 
-We are publishing here the **input files** for the instances, the **solutions** we have found, and **tables** comparing them through.
+We are publishing here the **input files** for the instances, the **solutions** we have found, a **solution checker**, and **tables** comparing the performance of the algorithms.
 
  
 ## Problems
@@ -29,6 +29,13 @@ The target string we found applying every algorithm in each string from those se
 
 ## Tables
 The values and results we found applying every algorithm in each string from those sets above are reported in the **results** folder.
+
+## Validator
+
+The folder validator contains a Python file called checker.py that can be used to validate solutions for the DSSP and DSSSP. 
+
+Usage:
+python check.py [instance-file-name] [solution-file-name]
 
 ## External Reference
 
